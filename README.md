@@ -1,2 +1,2 @@
 # VuraWiga_webUI
-Files for VuraWiga public web page
+VuraWiga public web page http://geoapps64.main.ad.rit.edu/rwanda/ukuntu/
